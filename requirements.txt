@@ -1,0 +1,18 @@
+# © 2026 Nokia
+# Licensed under the BSD 3-Clause License
+# SPDX-License-Identifier: BSD-3-Clause
+
+# Versions used to produce the paper results.
+# cyipopt is not on pip. Install it first, only for data generation:
+#   conda install -c conda-forge cyipopt
+
+torch==2.8.0
+torch_geometric==2.6.1
+pytorch-lightning==2.6.0
+tensorboard==2.20.0
+numpy==2.3.4
+jax==0.8.0
+tslearn==0.8.1
+matplotlib==3.10.6
+seaborn==0.13.2
+tqdm==4.67.1
