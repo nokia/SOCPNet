@@ -1,6 +1,6 @@
 # SOCPNet
 
-This repository contains the code of our paper "Learning SOCP Solver Dynamics with Graph Neural Networks", in the *Learning on Graphs Conference* (LoG), 2026.
+This repository contains the code of our paper "Learning SOCP Solver Dynamics with Graph Neural Networks", in the *Learning on Graphs Conference* (LoG), 2026. The preprint is available on [arXiv](https://arxiv.org/abs/2610.26285) and [HAL](https://hal.science/hal-05804470).
 
 © 2026 Nokia\
 Licensed under the BSD 3-Clause License\
